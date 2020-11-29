@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5d8393638dc824e598c9730ba8a7d072
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - adidog box DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f3c80525045ca459ea00c6d7edc656af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

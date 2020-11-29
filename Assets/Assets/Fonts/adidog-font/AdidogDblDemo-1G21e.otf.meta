@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff1b6e914fde744fa8b457181a4d4e00
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - adidog dbl DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 152ee3b1f3c434df3b070eb14b42f043, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
